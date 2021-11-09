@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "productName": "Bike/Vehicles",
+      "productId": "#12334",
+      "brand": "Honda",
+      "price": "80000",
+      "stock": "In-Stock",
+      "id": 1
+    },
+    {
+      "productName": "Jewellery",
+      "productId": "#85909",
+      "brand": "Khimji",
+      "price": "50000",
+      "stock": "Out-Stock",
+      "id": 2
+    },
+    {
+      "productName": "Toothpaste",
+      "productId": "#90532",
+      "brand": "Colgate",
+      "price": "50",
+      "stock": "In-Stock",
+      "id": 3
+    }
+  ]
+}
